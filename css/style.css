@@ -1,0 +1,26 @@
+h1{
+  color:#1a1aff;
+  font-size:50;
+  text-align:center;
+  font-family:georgia;
+}
+
+.score-box {
+  border: 1px solid black;
+  width: 20%;
+  height: 100px;
+  text-align:center;
+}
+
+body{
+  background-image: url("http://i.stack.imgur.com/7YKUD.jpg");
+}
+
+button: {
+  
+}
+
+button:hover {
+  background: #000;
+  color: #fff;
+}
